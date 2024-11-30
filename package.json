@@ -1,6 +1,5 @@
 {
-  "homepage": "https://alishba-naseer.github.io/NewsApi",
-  "name": "extra",
+  "name": "news-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
